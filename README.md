@@ -23,7 +23,7 @@ I am Priya Palak, a self-taught data analyst and final-year undergraduate studen
 - Codebasics Supply Chain Analytics Challenge (Tableau)
 - 8 Week SQL Challenge
 
-*For my Portfolio Guide, click* ***[here]()***
+*For my Portfolio Guide, click* ***[here](https://github.com/PriyaPalak/Portfolio-Guide)***
 
 ### ⚡️ Currently ⚡️
 
