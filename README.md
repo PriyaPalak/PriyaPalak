@@ -28,8 +28,7 @@ I am Priya Palak, a self-taught data analyst and final-year undergraduate studen
 ### ⚡️ Currently ⚡️
 
 - Brushing up on my knowledge of Statistics and SQL concepts
-- Practicing Technical Round Questions on SQL
-- Aptitude Preparation
+- Learning a new skill - Web Scrapping
 - Working on my LinkedIn Profile
 
 ### 🙌🏻 Connect with Me
