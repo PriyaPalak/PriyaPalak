@@ -1,6 +1,6 @@
 ## Hi there! 🙋‍♀️
 
-I am Priya Palak, a data analyst working at United Airlines.
+I am Priya Palak, an incoming data analyst working at United Airlines.
 
 ### ✨ About me in 30 seconds ✨
 
