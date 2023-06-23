@@ -1,19 +1,18 @@
 ## Hi there! 🙋‍♀️
 
-I am Priya Palak, a self-taught data analyst and final-year undergraduate student at Delhi University.
+I am Priya Palak, a data analyst working at United Airlines.
 
 ### ✨ About me in 30 seconds ✨
 
  - Self-taught Data Analyst
- - Final-year Undergrad Student at Delhi University
- - Big believer of taking one step at a time
+ - Studied Statistics at Delhi University, 2023 graduate
  - Started learning Data Skills in **May 2021**
-
+ - Strongly believe in taking one step at a time
 
 ### 💡 Skills and Tools
 
-- Skills: Data Cleaning, Data Wrangling, Exploratory Data Analysis, Data Visualisation and Dashboarding 
-- Tools: Excel, SQL, Tableau and Python (Numpy, Pandas, Matplotlib and Seaborn)
+- Skills: Data Cleaning, Data Wrangling, Exploratory Data Analysis, Data Visualisation, and Dashboarding 
+- Tools: Excel, SQL, Tableau, and Python (Numpy, Pandas, Matplotlib, and Seaborn)
 
 ### 📚 Portfolio Projects
 
@@ -27,9 +26,9 @@ I am Priya Palak, a self-taught data analyst and final-year undergraduate studen
 
 ### ⚡️ Currently ⚡️
 
-- Brushing up on my knowledge of Statistics and SQL concepts
-- Learning a new skill - Web Scrapping
-- Working on my LinkedIn Profile
+- Working on my Communication and Interpersonal skills
+- Brushing up on my SQL concepts
+
 
 ### 🙌🏻 Connect with Me
 
