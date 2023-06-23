@@ -28,6 +28,7 @@ I am Priya Palak, a data analyst working at United Airlines.
 
 - Working on my Communication and Interpersonal skills
 - Brushing up on my SQL concepts
+- Taking a course on Advanced SQL
 
 
 ### 🙌🏻 Connect with Me
