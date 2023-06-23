@@ -5,7 +5,7 @@ I am Priya Palak, a data analyst working at United Airlines.
 ### ✨ About me in 30 seconds ✨
 
  - Self-taught Data Analyst
- - Studied Statistics at Delhi University, 2023 graduate
+ - Studied Statistics at Delhi University, graduated this year
  - Started learning Data Skills in **May 2021**
  - Strongly believe in taking one step at a time
 
