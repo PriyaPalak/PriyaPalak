@@ -1,18 +1,19 @@
 ## Hi there! 🙋‍♀️
 
-I am Priya Palak, an incoming data analyst working at United Airlines.
+I am Priya Palak, a business analyst working at United Airlines for the past 3 years under TechOps Division.
 
 ### ✨ About me in 30 seconds ✨
 
  - Self-taught Data Analyst
- - Studied Statistics at Delhi University, graduated this year
  - Started learning Data Skills in **May 2021**
+ - Studied Statistics at Delhi University, graduated in 2023
+ - Working with Airline Operations data, creating dashboards and delivering insights for the past 3 years
  - Strongly believe in taking one step at a time
 
 ### 💡 Skills and Tools
 
-- Skills: Data Cleaning, Data Wrangling, Exploratory Data Analysis, Data Visualisation, and Dashboarding 
-- Tools: Excel, SQL, Tableau, and Python (Numpy, Pandas, Matplotlib, and Seaborn)
+- Skills: Data Cleaning, Data Wrangling, Exploratory Data Analysis, Data Visualisation, and Dashboarding, Feature Engineering, Regression and Classification, Model Improvement
+- Tools: Excel, SQL, Tableau, Power BI, Python (Numpy, Pandas, Matplotlib, and Seaborn), Databricks, Power Automate, Scikit-learn
 
 ### 📚 Portfolio Projects
 
@@ -26,9 +27,9 @@ I am Priya Palak, an incoming data analyst working at United Airlines.
 
 ### ⚡️ Currently ⚡️
 
-- Working on my Communication and Interpersonal skills
-- Brushing up on my SQL concepts
-- Taking a course on Advanced SQL
+- Working on my Machine Learning Skills
+- Brushing up on SQL, Python, Statistics and ML concepts
+- Taking a course on Unsupervised Learning
 
 
 ### 🙌🏻 Connect with Me
